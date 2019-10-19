@@ -30,4 +30,4 @@ while (LastName == "" or FirstName == ""):
 # Both names are not empty
 # Say welcome
 print()
-print("Enchanté", FirstName, LastName, ", je te souhaite une belle journée.")
+print("Enchanté", FirstName, LastName, " je te souhaite une belle journée.")
