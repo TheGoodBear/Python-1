@@ -21,7 +21,8 @@
 
     - Langage :
         - Variables et portée
-        - Test (if, elif, else)
+        - Méthode (def) avec et sans paramètre (Fonction/Procédure)
+        - Test (if, elif)
         - Boucle (while)
         - Opérateurs de comparaison (==)
         - Opérateurs logiques (and, or)
