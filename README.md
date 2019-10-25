@@ -10,6 +10,7 @@
         - VS Code
         - PyCharm
         - SublimeText
+        - Atom
     
     - Architecture logicielle
         - Organisation d'un projet (dossiers, fichiers .py)
