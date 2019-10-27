@@ -20,7 +20,7 @@
         - Nommage
         - Commentaires
         
-    - Données :
+    - Données : NA
 
     - Langage :
         - Variables et portée
