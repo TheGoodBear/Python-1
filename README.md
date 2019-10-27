@@ -12,13 +12,15 @@
         - SublimeText
         - Atom
     
-    - Architecture logicielle
+    - Architecture logicielle :
         - Organisation d'un projet (dossiers, fichiers .py)
         - Premier programme
         - Déroulement séquentiel
         - Indentation
         - Nommage
         - Commentaires
+        
+    - Données :
 
     - Langage :
         - Variables et portée
